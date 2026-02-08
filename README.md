@@ -45,6 +45,7 @@ A hands-free safety application that uses computer vision (MediaPipe) to detect 
 
 ## Environment Variables
 - `MONGODB_URI` - MongoDB Atlas connection string (secret)
+- `PORT`
 - ElevenLabs API key managed via Replit connector integration
 
 ## Recent Changes
